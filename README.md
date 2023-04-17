@@ -6,7 +6,7 @@ step 1. get the bookmarklet [here](https://rb.gy/uqo8q)
 
 <hr>
 
-step 2. put it in a [bookmark](chrome://bookmarks/)
+step 2. put it in a bookmark 
 
 <hr>
 
