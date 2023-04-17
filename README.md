@@ -2,7 +2,7 @@ Hello ur prob here to disable dumb "securely". lucky for you i have delivered.
 
 <hr>
 
-step 1. get the bookmarklet [here](https://github.com/zek-c/extension-v111-kill/blob/main/bookmarklet.js)
+step 1. get the bookmarklet [here](https://rb.gy/uqo8q)
 
 <hr>
 
@@ -10,7 +10,7 @@ step 2. put it in a bookmark
 
 <hr>
 
-step 3. go to [Securly 🤓](https://securly.com)
+step 3. go to [Securly](https://securly.com)
 
 <hr>
 
