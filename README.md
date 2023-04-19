@@ -14,7 +14,7 @@ step 3. go to [Securly](https://securly.com)
 
 <hr>
 
-step 4. click the bookmark and type "99"
+step 4. click the bookmark and click on "off"
 
 <hr>
 
